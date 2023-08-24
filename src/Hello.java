@@ -8,6 +8,6 @@
  */
 public class Hello {
     public static void main(String[] args) throws Exception {
-        System.out.println("Cale Sigerson\nComputer Science");
+        System.out.println("Cale Sigerson\nComputer Science\nCarston Wiebe\nComputer Engineering\n");
     }
 }
